@@ -8,6 +8,7 @@ The UK Food Standards Agency evaluates various establishments across the United 
 
 * Utilize NoSQL to import the establishments.json file in personal terminal. Created a list of collections in the database to ensure file was imported properly. Displayed one document within the file.
 
+<img width="839" alt="image" src="https://user-images.githubusercontent.com/115186079/225818510-54293e90-156f-446d-a8e5-329400e185fe.png">
 
 
 ## Part 2: Update the Database
