@@ -9,6 +9,7 @@ The UK Food Standards Agency evaluates various establishments across the United 
 * Utilize NoSQL to import the establishments.json file in personal terminal. Created a list of collections in the database to ensure file was imported properly. Displayed one document within the file.
 
 
+
 ## Part 2: Update the Database
 
 * Modified the database to perform any queries for analysis. Developed an analysis for a new restaurant which hasn't been rated for a magazine.
@@ -20,3 +21,4 @@ The UK Food Standards Agency evaluates various establishments across the United 
 
 * Eat Safe, Love has specific questions they want you to answer, which will help them find the locations they wish to visit and avoid.
 
+<img width="988" alt="image" src="https://user-images.githubusercontent.com/115186079/225818301-cb59b90f-c123-452a-8d23-96b12e7b1c91.png">
